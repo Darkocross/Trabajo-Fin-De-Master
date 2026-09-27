@@ -1,0 +1,30 @@
+efecto,nivel,verdad,modelo,error,error_pct
+Día de la semana,miércoles,1.0,1.0,0.0,0.0
+Día de la semana,jueves,1.4,1.32,-0.08,-5.7
+Día de la semana,viernes,2.0,1.847,-0.153,-7.7
+Día de la semana,sábado,2.9,2.629,-0.271,-9.3
+Día de la semana,domingo,2.3,2.143,-0.157,-6.8
+Mes,febrero,1.059,1.069,0.01,0.9
+Mes,marzo,1.118,1.124,0.006,0.5
+Mes,abril,1.176,1.232,0.056,4.8
+Mes,mayo,1.235,1.35,0.115,9.3
+Mes,junio,1.294,1.351,0.057,4.4
+Mes,julio,1.412,1.254,-0.158,-11.2
+Mes,septiembre,1.118,1.175,0.057,5.1
+Mes,octubre,1.176,1.259,0.083,7.1
+Mes,noviembre,1.118,1.162,0.044,3.9
+Mes,diciembre,1.412,1.327,-0.085,-6.0
+Festivo,día festivo,1.1,1.07,-0.03,-2.7
+Temperatura,2 °C,0.698,0.87,0.172,24.6
+Temperatura,8 °C,0.847,0.911,0.064,7.6
+Temperatura,14 °C,0.956,0.952,-0.004,-0.4
+Temperatura,21 °C,1.0,1.0,0.0,0.0
+Temperatura,27 °C,0.967,1.041,0.074,7.7
+Temperatura,33 °C,0.767,1.082,0.315,41.1
+Temperatura,38 °C,0.646,1.116,0.47,72.8
+Lluvia (entre semana),2 mm,0.951,0.888,-0.063,-6.6
+Lluvia (entre semana),10 mm,0.779,0.756,-0.023,-3.0
+Lluvia (entre semana),25 mm,0.535,0.669,0.134,25.0
+Lluvia (fin de semana),2 mm,0.935,0.89,-0.045,-4.8
+Lluvia (fin de semana),10 mm,0.714,0.759,0.045,6.3
+Lluvia (fin de semana),25 mm,0.43,0.672,0.242,56.3

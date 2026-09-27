@@ -1,0 +1,5 @@
+modelo,nombre_tecnico,mae_validacion,rmse_validacion,mape_validacion,r2_validacion,mae_test,rmse_test,mape_test,r2_test,entrenado
+Hist Gradient Boosting,hist_gradient_boosting,16.097,22.649,14.84,0.759,17.389,24.03,15.981,0.726,2026-09-25 18:03
+Regresión lineal,regresion_lineal,16.189,22.194,15.866,0.768,16.711,23.442,16.819,0.739,2026-09-25 18:03
+Random Forest,random_forest,16.731,24.052,15.53,0.728,16.891,25.26,15.694,0.697,2026-09-25 18:03
+Baseline (media por día de la semana),baseline,20.577,27.713,19.544,0.639,20.212,28.416,18.815,0.617,2026-09-25 18:03

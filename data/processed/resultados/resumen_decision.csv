@@ -1,0 +1,4 @@
+metodo,dias,dias_correctos,dias_infradotados,dias_sobredotados,pct_correctos,pct_infradotados,pct_sobredotados,coste_falta_personal,coste_exceso_personal,coste_total,coste_por_dia,coste_anual_estimado
+Intuición,174,144,17,13,82.8,9.8,7.5,2269.0,1666.0,3935.0,22.6,5541.0
+Modelo,174,163,6,5,93.7,3.4,2.9,696.0,714.0,1410.0,8.1,1985.0
+Oráculo,174,174,0,0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

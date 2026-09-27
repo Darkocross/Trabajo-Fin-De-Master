@@ -1,0 +1,5 @@
+modelo,nombre_tecnico,mae_medio,mae_desviacion,bloque_1,bloque_2,bloque_3,bloque_4,bloque_5
+Baseline,baseline,19.194,1.759,16.048,19.26,19.78,21.47,19.414
+Regresión lineal,regresion_lineal,16.484,1.774,13.778,19.087,17.304,15.534,16.716
+Random Forest,random_forest,17.346,1.101,16.463,17.938,18.886,15.778,17.667
+Hist Gradient Boosting,hist_gradient_boosting,16.524,0.84,15.718,16.514,17.919,15.616,16.854

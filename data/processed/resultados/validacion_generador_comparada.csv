@@ -1,0 +1,30 @@
+efecto,nivel,verdad,regresion_lineal,hist_gradient_boosting
+Día de la semana,miércoles,1.0,1.0,1.0
+Día de la semana,jueves,1.4,1.32,1.33
+Día de la semana,viernes,2.0,1.847,1.87
+Día de la semana,sábado,2.9,2.629,2.883
+Día de la semana,domingo,2.3,2.143,2.464
+Mes,febrero,1.059,1.069,0.994
+Mes,marzo,1.118,1.124,0.983
+Mes,abril,1.176,1.232,0.978
+Mes,mayo,1.235,1.35,1.016
+Mes,junio,1.294,1.351,1.076
+Mes,julio,1.412,1.254,1.005
+Mes,septiembre,1.118,1.175,0.983
+Mes,octubre,1.176,1.259,1.009
+Mes,noviembre,1.118,1.162,1.019
+Mes,diciembre,1.412,1.327,1.141
+Festivo,día festivo,1.1,1.07,1.039
+Temperatura,2 °C,0.698,0.87,0.657
+Temperatura,8 °C,0.847,0.911,0.795
+Temperatura,14 °C,0.956,0.952,0.923
+Temperatura,21 °C,1.0,1.0,1.0
+Temperatura,27 °C,0.967,1.041,1.106
+Temperatura,33 °C,0.767,1.082,1.025
+Temperatura,38 °C,0.646,1.116,1.025
+Lluvia (entre semana),2 mm,0.951,0.888,1.048
+Lluvia (entre semana),10 mm,0.779,0.756,0.771
+Lluvia (entre semana),25 mm,0.535,0.669,0.566
+Lluvia (fin de semana),2 mm,0.935,0.89,1.025
+Lluvia (fin de semana),10 mm,0.714,0.759,0.898
+Lluvia (fin de semana),25 mm,0.43,0.672,0.863

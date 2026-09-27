@@ -689,3 +689,11 @@ Mis expectativas para las próximas entregas son poder comenzar a trabajar con d
 Soy consciente de que pueden surgir dificultades, especialmente en la obtención de datos de actividad del negocio o en la integración de las distintas fuentes. Aun así, creo que existen alternativas viables, como el uso de datos sintéticos o datasets públicos, que permitirán continuar con el desarrollo del proyecto sin perder de vista los objetivos principales.
 
 En conjunto, esta fase me ha servido para planificar con mayor detalle cómo se organizarán los datos y cómo será el flujo de trabajo durante el resto del proyecto. Espero que esta planificación facilite las siguientes etapas y permita centrar el esfuerzo en el análisis y en la construcción de un modelo que aporte resultados útiles e interesantes.
+
+---
+
+## Nota sobre esta entrega
+
+El borrador de esta entrega terminaba con un apartado titulado *"3. Tipo de modelos que se van a plantear"*, marcado como `///posible cambio`. Ese contenido pertenece al enfoque de modelado y se ha trasladado a la [Entrega 4](04_analisis_modelado.md), donde se desarrolla con los resultados obtenidos.
+
+El resto del documento se mantiene tal cual se entregó.

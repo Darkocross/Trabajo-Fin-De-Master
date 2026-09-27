@@ -1,0 +1,24 @@
+variable,coeficiente,importancia,variable_legible
+categoricas__dia_semana_5,,0.27753522334562936,día de la semana: sábado
+categoricas__dia_semana_2,,0.2381931278836643,día de la semana: miércoles
+numericas__tmed,,0.10230126778870029,temperatura media
+categoricas__dia_semana_3,,0.09161903935233842,día de la semana: jueves
+categoricas__dia_semana_6,,0.074933072680642,día de la semana: domingo
+numericas__amplitud_termica,,0.04865452234011894,amplitud térmica
+categoricas__dia_semana_4,,0.03633440303385567,día de la semana: viernes
+numericas__prec_log,,0.030525432377352685,precipitación (log)
+numericas__lluvia_fin_semana,,0.019156849000983394,lluvia en fin de semana
+categoricas__mes_6,,0.01186215223242135,mes: junio
+categoricas__mes_12,,0.011860013621186246,mes: diciembre
+categoricas__mes_2,,0.009706011718917615,mes: febrero
+categoricas__mes_5,,0.009175379479066286,mes: mayo
+categoricas__tipo_vacaciones_ninguna,,0.006971106792580501,tipo de vacaciones: ninguna
+categoricas__tipo_vacaciones_semana_santa,,0.005786363081383781,tipo de vacaciones: semana_santa
+categoricas__mes_7,,0.003974043298308019,mes: julio
+categoricas__dia_semana_1,,0.0038803720903524265,día de la semana: martes
+categoricas__mes_4,,0.0035523998058504566,mes: abril
+categoricas__mes_3,,0.0034934410209276744,mes: marzo
+categoricas__mes_9,,0.002979728281111014,mes: septiembre
+categoricas__mes_10,,0.0028185560337508292,mes: octubre
+categoricas__mes_11,,0.002769561675190672,mes: noviembre
+numericas__es_festivo,,0.0019179330656680003,es festivo

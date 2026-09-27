@@ -1,0 +1,175 @@
+fecha,año,mes,dia_semana,nombre_dia,fin_de_semana,indice_temporal,es_festivo,nombre_festivo,ambito_festivo,es_vispera_festivo,es_puente,es_vacaciones,periodo_vacacional,tipo_vacaciones,tmed,tmax,tmin,prec,prec_inapreciable,temp_interpolada,prec_rellenada,meteo_imputada,n_empleados,n_clientes,nota_faena
+2026-01-01,2026,1,3,Jueves,0,1461,1,Año Nuevo,nacional,0,0,1,Vacaciones de Navidad,navidad,0.6,5.0,-3.8,0.2,0,0,0,0,5,65,personal suficiente
+2026-01-02,2026,1,4,Viernes,0,1462,0,,,0,1,1,Vacaciones de Navidad,navidad,8.0,11.3,4.6,0.2,0,0,0,0,6,87,personal sin hacer nada
+2026-01-03,2026,1,5,Sábado,1,1463,0,,,0,0,1,Vacaciones de Navidad,navidad,9.8,14.0,5.7,0.0,0,0,0,0,7,123,personal ocupado
+2026-01-04,2026,1,6,Domingo,1,1464,0,,,0,0,1,Vacaciones de Navidad,navidad,8.9,13.6,4.2,3.8,0,0,0,0,8,132,personal ocupado
+2026-01-05,2026,1,0,Lunes,0,1465,0,,,1,1,1,Vacaciones de Navidad,navidad,2.7,6.2,-0.8,1.4,0,0,0,0,4,45,personal suficiente
+2026-01-06,2026,1,1,Martes,0,1466,1,Epifanía del Señor,nacional,0,0,1,Vacaciones de Navidad,navidad,0.8,6.7,-5.2,0.0,0,0,0,0,6,39,personal sin hacer nada
+2026-01-07,2026,1,2,Miércoles,0,1467,0,,,0,0,1,Vacaciones de Navidad,navidad,2.0,9.3,-5.4,0.0,0,0,0,0,3,55,personal suficiente
+2026-01-08,2026,1,3,Jueves,0,1468,0,,,0,0,0,ninguna,ninguna,2.4,5.4,-0.6,0.0,0,0,0,0,4,49,personal suficiente
+2026-01-09,2026,1,4,Viernes,0,1469,0,,,0,0,0,ninguna,ninguna,9.6,14.0,5.3,0.0,0,0,0,0,4,145,falta de personal
+2026-01-10,2026,1,5,Sábado,1,1470,0,,,0,0,0,ninguna,ninguna,5.5,12.3,-1.3,0.0,0,0,0,0,7,117,personal ocupado
+2026-01-11,2026,1,6,Domingo,1,1471,0,,,0,0,0,ninguna,ninguna,4.6,12.1,-2.8,0.0,0,0,0,0,7,115,personal ocupado
+2026-01-14,2026,1,2,Miércoles,0,1474,0,,,0,0,0,ninguna,ninguna,6.2,12.2,0.3,0.0,0,0,0,0,3,39,personal sin hacer nada
+2026-01-15,2026,1,3,Jueves,0,1475,0,,,0,0,0,ninguna,ninguna,4.2,9.3,-0.9,3.8,0,0,0,0,5,49,personal suficiente
+2026-01-16,2026,1,4,Viernes,0,1476,0,,,0,0,0,ninguna,ninguna,7.8,11.6,3.9,10.2,0,0,0,0,4,75,personal ocupado
+2026-01-17,2026,1,5,Sábado,1,1477,0,,,0,0,0,ninguna,ninguna,4.0,5.8,2.3,6.2,0,0,0,0,6,99,personal suficiente
+2026-01-18,2026,1,6,Domingo,1,1478,0,,,0,0,0,ninguna,ninguna,6.0,11.0,0.9,0.0,0,0,0,0,7,142,personal ocupado
+2026-01-21,2026,1,2,Miércoles,0,1481,0,,,0,0,0,ninguna,ninguna,3.8,8.8,-1.1,7.8,0,0,0,0,3,33,personal sin hacer nada
+2026-01-22,2026,1,3,Jueves,0,1482,0,,,0,0,0,ninguna,ninguna,6.6,10.0,3.3,4.2,0,0,0,0,3,71,personal suficiente
+2026-01-23,2026,1,4,Viernes,0,1483,0,,,0,0,0,ninguna,ninguna,6.1,9.1,3.1,4.2,0,0,0,0,3,77,personal ocupado
+2026-01-24,2026,1,5,Sábado,1,1484,0,,,0,0,0,ninguna,ninguna,4.2,7.2,1.2,0.8,0,0,0,0,8,115,personal suficiente
+2026-01-25,2026,1,6,Domingo,1,1485,0,,,0,0,0,ninguna,ninguna,7.6,12.0,3.1,0.2,0,0,0,0,8,90,personal sin hacer nada
+2026-01-28,2026,1,2,Miércoles,0,1488,0,,,0,0,0,ninguna,ninguna,7.0,11.3,2.6,12.4,0,0,0,0,3,35,personal suficiente
+2026-01-29,2026,1,3,Jueves,0,1489,0,,,0,0,0,ninguna,ninguna,10.0,13.0,7.0,14.6,0,0,0,0,4,45,personal sin hacer nada
+2026-01-30,2026,1,4,Viernes,0,1490,0,,,0,0,0,ninguna,ninguna,8.4,10.8,6.1,5.0,0,0,0,0,6,92,personal ocupado
+2026-01-31,2026,1,5,Sábado,1,1491,0,,,0,0,0,ninguna,ninguna,8.4,12.8,4.1,0.0,0,0,0,0,7,121,personal ocupado
+2026-02-01,2026,2,6,Domingo,1,1492,0,,,0,0,0,ninguna,ninguna,6.9,9.8,4.0,8.2,0,0,0,0,8,82,personal sin hacer nada
+2026-02-04,2026,2,2,Miércoles,0,1495,0,,,0,0,0,ninguna,ninguna,7.4,10.8,4.1,10.4,0,0,0,0,4,35,personal sin hacer nada
+2026-02-05,2026,2,3,Jueves,0,1496,0,,,0,0,0,ninguna,ninguna,11.2,14.4,8.0,5.8,0,0,0,0,3,53,personal ocupado
+2026-02-06,2026,2,4,Viernes,0,1497,0,,,0,0,0,ninguna,ninguna,7.5,9.7,5.3,1.8,0,0,0,0,3,70,personal suficiente
+2026-02-07,2026,2,5,Sábado,1,1498,0,,,0,0,0,ninguna,ninguna,6.4,8.0,4.8,11.6,0,0,0,0,6,108,personal ocupado
+2026-02-08,2026,2,6,Domingo,1,1499,0,,,0,0,0,ninguna,ninguna,8.8,11.9,5.8,3.0,0,0,0,0,7,111,personal ocupado
+2026-02-11,2026,2,2,Miércoles,0,1502,0,,,0,0,0,ninguna,ninguna,13.4,15.2,11.5,6.0,0,0,0,0,4,45,personal suficiente
+2026-02-12,2026,2,3,Jueves,0,1503,0,,,0,0,0,ninguna,ninguna,11.0,13.9,8.1,7.6,0,0,0,0,3,59,personal ocupado
+2026-02-13,2026,2,4,Viernes,0,1504,0,,,0,0,0,ninguna,ninguna,9.8,11.9,7.7,1.4,0,0,0,0,5,86,personal suficiente
+2026-02-14,2026,2,5,Sábado,1,1505,0,,,0,0,0,ninguna,ninguna,6.8,12.6,1.1,0.0,0,0,0,0,8,137,personal ocupado
+2026-02-15,2026,2,6,Domingo,1,1506,0,,,0,0,0,ninguna,ninguna,7.0,14.8,-0.7,0.0,0,0,0,0,8,83,personal sin hacer nada
+2026-02-18,2026,2,2,Miércoles,0,1509,0,,,0,0,0,ninguna,ninguna,9.6,12.8,6.4,1.0,0,0,0,0,6,54,personal sin hacer nada
+2026-02-19,2026,2,3,Jueves,0,1510,0,,,0,0,0,ninguna,ninguna,7.6,13.2,2.0,0.0,0,0,0,0,5,63,personal sin hacer nada
+2026-02-20,2026,2,4,Viernes,0,1511,0,,,0,0,0,ninguna,ninguna,8.3,16.8,-0.2,0.0,0,0,0,0,5,80,personal suficiente
+2026-02-21,2026,2,5,Sábado,1,1512,0,,,0,0,0,ninguna,ninguna,10.7,20.5,0.9,0.0,0,0,0,0,8,123,personal ocupado
+2026-02-22,2026,2,6,Domingo,1,1513,0,,,0,0,0,ninguna,ninguna,11.2,20.9,1.5,0.0,0,0,0,0,6,88,personal sin hacer nada
+2026-02-25,2026,2,2,Miércoles,0,1516,0,,,0,0,0,ninguna,ninguna,13.2,23.5,2.8,0.0,0,0,0,0,5,61,personal sin hacer nada
+2026-02-26,2026,2,3,Jueves,0,1517,0,,,0,0,0,ninguna,ninguna,13.8,24.3,3.4,0.0,0,0,0,0,3,83,falta de personal
+2026-02-27,2026,2,4,Viernes,0,1518,0,,,0,0,0,ninguna,ninguna,12.4,21.0,3.8,0.0,0,0,0,0,6,111,personal ocupado
+2026-02-28,2026,2,5,Sábado,1,1519,0,,,0,0,0,ninguna,ninguna,13.0,19.7,6.3,0.0,0,0,0,0,8,143,personal suficiente
+2026-03-01,2026,3,6,Domingo,1,1520,0,,,0,0,0,ninguna,ninguna,11.5,16.1,6.9,0.0,0,0,0,0,6,116,personal suficiente
+2026-03-04,2026,3,2,Miércoles,0,1523,0,,,0,0,0,ninguna,ninguna,11.4,18.1,4.7,0.0,0,0,0,0,5,52,personal sin hacer nada
+2026-03-05,2026,3,3,Jueves,0,1524,0,,,0,0,0,ninguna,ninguna,13.6,18.6,8.6,13.8,0,0,0,0,6,54,personal sin hacer nada
+2026-03-06,2026,3,4,Viernes,0,1525,0,,,0,0,0,ninguna,ninguna,10.3,11.5,9.1,3.2,0,0,0,0,4,93,personal suficiente
+2026-03-07,2026,3,5,Sábado,1,1526,0,,,0,0,0,ninguna,ninguna,10.8,13.4,8.1,1.8,0,0,0,0,6,175,falta de personal
+2026-03-08,2026,3,6,Domingo,1,1527,0,,,0,0,0,ninguna,ninguna,11.4,15.4,7.4,0.0,0,0,0,0,7,123,personal suficiente
+2026-03-11,2026,3,2,Miércoles,0,1530,0,,,0,0,0,ninguna,ninguna,11.0,16.6,5.5,0.0,0,0,0,0,4,64,personal ocupado
+2026-03-12,2026,3,3,Jueves,0,1531,0,,,0,0,0,ninguna,ninguna,11.4,19.0,3.8,0.0,0,0,0,0,3,83,falta de personal
+2026-03-13,2026,3,4,Viernes,0,1532,0,,,0,0,0,ninguna,ninguna,11.4,19.0,3.7,0.0,0,0,0,0,6,91,personal suficiente
+2026-03-14,2026,3,5,Sábado,1,1533,0,,,0,0,0,ninguna,ninguna,12.6,15.9,9.2,0.0,0,0,0,0,6,154,personal ocupado
+2026-03-15,2026,3,6,Domingo,1,1534,0,,,0,0,0,ninguna,ninguna,10.8,16.2,5.3,0.0,0,0,0,0,7,133,personal suficiente
+2026-03-18,2026,3,2,Miércoles,0,1537,0,,,0,0,0,ninguna,ninguna,12.4,20.1,4.6,0.0,0,0,0,0,4,52,personal suficiente
+2026-03-19,2026,3,3,Jueves,0,1538,0,,,0,0,0,ninguna,ninguna,12.3,20.0,4.6,0.0,0,0,0,0,4,78,personal ocupado
+2026-03-20,2026,3,4,Viernes,0,1539,0,,,0,0,0,ninguna,ninguna,9.8,12.7,7.0,4.0,0,0,0,0,4,108,falta de personal
+2026-03-21,2026,3,5,Sábado,1,1540,0,,,0,0,0,ninguna,ninguna,9.9,13.8,6.0,0.4,0,0,0,0,6,140,personal ocupado
+2026-03-22,2026,3,6,Domingo,1,1541,0,,,0,0,0,ninguna,ninguna,10.8,19.6,1.9,0.0,0,0,0,0,8,131,personal ocupado
+2026-03-25,2026,3,2,Miércoles,0,1544,0,,,0,0,0,ninguna,ninguna,13.6,23.5,3.6,0.0,0,0,0,0,3,52,personal suficiente
+2026-03-26,2026,3,3,Jueves,0,1545,0,,,0,0,0,ninguna,ninguna,11.4,17.8,4.9,0.0,0,0,0,0,4,89,personal ocupado
+2026-03-27,2026,3,4,Viernes,0,1546,0,,,0,0,0,ninguna,ninguna,10.4,18.7,2.1,0.0,0,0,0,0,4,108,personal ocupado
+2026-03-28,2026,3,5,Sábado,1,1547,0,,,0,0,0,ninguna,ninguna,11.6,19.1,4.2,0.0,0,0,0,0,7,142,personal suficiente
+2026-03-29,2026,3,6,Domingo,1,1548,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,8.4,15.2,1.7,0.0,0,0,0,0,7,138,personal ocupado
+2026-03-30,2026,3,0,Lunes,0,1549,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,10.3,20.2,0.4,0.0,0,0,0,0,6,58,personal suficiente
+2026-03-31,2026,3,1,Martes,0,1550,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,16.2,23.1,9.2,0.0,0,0,0,0,6,58,personal sin hacer nada
+2026-04-01,2026,4,2,Miércoles,0,1551,0,,,1,0,1,Vacaciones de Semana Santa,semana_santa,12.6,20.4,4.9,0.0,0,0,0,0,7,67,personal suficiente
+2026-04-02,2026,4,3,Jueves,0,1552,1,Jueves Santo,nacional,1,0,1,Vacaciones de Semana Santa,semana_santa,12.7,19.9,5.5,0.0,0,0,0,0,6,124,personal ocupado
+2026-04-03,2026,4,4,Viernes,0,1553,1,Viernes Santo,nacional,0,0,1,Vacaciones de Semana Santa,semana_santa,12.4,23.3,1.6,0.0,0,0,0,0,7,181,personal ocupado
+2026-04-04,2026,4,5,Sábado,1,1554,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,15.0,24.7,5.2,0.0,0,0,0,0,7,247,falta de personal
+2026-04-05,2026,4,6,Domingo,1,1555,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,17.0,28.1,6.0,0.0,0,0,0,0,8,194,personal ocupado
+2026-04-06,2026,4,0,Lunes,0,1556,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,18.3,27.0,9.6,0.0,0,0,0,0,6,60,personal sin hacer nada
+2026-04-07,2026,4,1,Martes,0,1557,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,17.8,23.9,11.7,2.8,0,0,0,0,7,74,personal sin hacer nada
+2026-04-08,2026,4,2,Miércoles,0,1558,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,13.4,18.2,8.6,0.0,0,0,0,0,7,73,personal sin hacer nada
+2026-04-09,2026,4,3,Jueves,0,1559,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,16.6,26.8,6.4,0.0,0,0,0,0,6,118,personal suficiente
+2026-04-10,2026,4,4,Viernes,0,1560,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,20.8,30.0,11.7,0.0,0,0,0,0,6,175,personal ocupado
+2026-04-11,2026,4,5,Sábado,1,1561,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,17.7,23.1,12.3,1.6,0,0,0,0,6,277,falta de personal
+2026-04-12,2026,4,6,Domingo,1,1562,0,,,0,0,1,Vacaciones de Semana Santa,semana_santa,12.2,16.0,8.3,1.8,0,0,0,0,8,148,personal suficiente
+2026-04-15,2026,4,2,Miércoles,0,1565,0,,,0,0,0,ninguna,ninguna,15.8,25.2,6.5,0.0,0,0,0,0,3,65,personal ocupado
+2026-04-16,2026,4,3,Jueves,0,1566,0,,,0,0,0,ninguna,ninguna,17.4,27.0,7.8,0.0,0,0,0,0,3,72,personal ocupado
+2026-04-17,2026,4,4,Viernes,0,1567,0,,,0,0,0,ninguna,ninguna,17.8,28.1,7.4,0.0,0,0,0,0,4,112,falta de personal
+2026-04-18,2026,4,5,Sábado,1,1568,0,,,0,0,0,ninguna,ninguna,18.8,28.9,8.7,0.0,0,0,0,0,6,156,falta de personal
+2026-04-19,2026,4,6,Domingo,1,1569,0,,,0,0,0,ninguna,ninguna,19.9,28.8,11.0,0.0,0,0,0,0,7,131,personal ocupado
+2026-04-22,2026,4,2,Miércoles,0,1572,0,,,0,0,0,ninguna,ninguna,18.7,25.9,11.5,0.0,0,0,0,0,4,57,personal sin hacer nada
+2026-04-23,2026,4,3,Jueves,0,1573,0,,,0,0,0,ninguna,ninguna,18.8,28.2,9.3,7.4,0,0,0,0,5,69,personal suficiente
+2026-04-24,2026,4,4,Viernes,0,1574,0,,,0,0,0,ninguna,ninguna,19.0,24.7,13.3,0.0,0,0,0,0,3,126,personal ocupado
+2026-04-25,2026,4,5,Sábado,1,1575,0,,,0,0,0,ninguna,ninguna,20.4,26.3,14.4,0.0,0,0,0,0,6,154,falta de personal
+2026-04-26,2026,4,6,Domingo,1,1576,0,,,0,0,0,ninguna,ninguna,19.6,28.1,11.0,0.0,0,0,0,0,8,149,personal ocupado
+2026-04-29,2026,4,2,Miércoles,0,1579,0,,,0,0,0,ninguna,ninguna,17.8,22.0,13.5,8.8,0,0,0,0,4,44,personal suficiente
+2026-04-30,2026,4,3,Jueves,0,1580,0,,,1,0,0,ninguna,ninguna,17.6,24.7,10.4,0.0,0,0,0,0,6,94,personal ocupado
+2026-05-01,2026,5,4,Viernes,0,1581,1,Día del Trabajo,nacional,1,0,0,ninguna,ninguna,17.8,26.8,8.9,0.2,0,0,0,0,7,137,personal ocupado
+2026-05-02,2026,5,5,Sábado,1,1582,1,Día de la Comunidad de Madrid,autonomico,0,0,0,ninguna,ninguna,17.8,21.9,13.6,9.4,0,0,0,0,8,106,personal suficiente
+2026-05-03,2026,5,6,Domingo,1,1583,0,,,0,0,0,ninguna,ninguna,16.8,21.3,12.3,0.0,0,0,0,0,6,174,falta de personal
+2026-05-06,2026,5,2,Miércoles,0,1586,0,,,0,0,0,ninguna,ninguna,13.6,22.3,4.9,0.0,0,0,0,0,6,68,personal sin hacer nada
+2026-05-07,2026,5,3,Jueves,0,1587,0,,,0,0,0,ninguna,ninguna,14.0,18.5,9.5,11.8,0,0,0,0,4,88,personal ocupado
+2026-05-08,2026,5,4,Viernes,0,1588,0,,,0,0,0,ninguna,ninguna,14.6,21.5,7.7,4.6,0,0,0,0,4,105,falta de personal
+2026-05-09,2026,5,5,Sábado,1,1589,0,,,0,0,0,ninguna,ninguna,14.8,18.3,11.3,13.8,0,0,0,0,7,151,personal ocupado
+2026-05-10,2026,5,6,Domingo,1,1590,0,,,0,0,0,ninguna,ninguna,12.8,16.2,9.3,3.4,0,0,0,0,7,156,personal ocupado
+2026-05-13,2026,5,2,Miércoles,0,1593,0,,,0,0,0,ninguna,ninguna,14.2,21.2,7.3,0.0,0,0,0,0,4,59,personal suficiente
+2026-05-14,2026,5,3,Jueves,0,1594,0,,,0,0,0,ninguna,ninguna,16.4,23.7,9.0,0.0,0,0,0,0,3,81,falta de personal
+2026-05-15,2026,5,4,Viernes,0,1595,0,,,0,0,0,ninguna,ninguna,13.6,20.0,7.1,0.0,0,0,0,0,5,109,personal ocupado
+2026-05-16,2026,5,5,Sábado,1,1596,0,,,0,0,0,ninguna,ninguna,13.5,22.9,4.1,0.0,0,0,0,0,6,218,personal ocupado
+2026-05-17,2026,5,6,Domingo,1,1597,0,,,0,0,0,ninguna,ninguna,16.4,24.4,8.3,3.8,0,0,0,0,8,102,personal sin hacer nada
+2026-05-20,2026,5,2,Miércoles,0,1600,0,,,0,0,0,ninguna,ninguna,21.4,32.2,10.7,0.0,0,0,0,0,3,57,personal ocupado
+2026-05-21,2026,5,3,Jueves,0,1601,0,,,0,0,0,ninguna,ninguna,23.5,33.6,13.4,0.0,0,0,0,0,3,60,personal ocupado
+2026-05-22,2026,5,4,Viernes,0,1602,0,,,0,0,0,ninguna,ninguna,23.4,32.7,14.0,0.0,0,0,0,0,5,138,falta de personal
+2026-05-23,2026,5,5,Sábado,1,1603,0,,,0,0,0,ninguna,ninguna,24.8,34.4,15.3,0.0,0,0,0,0,8,197,falta de personal
+2026-05-24,2026,5,6,Domingo,1,1604,0,,,0,0,0,ninguna,ninguna,24.6,32.9,16.3,0.0,0,0,0,0,6,168,falta de personal
+2026-05-27,2026,5,2,Miércoles,0,1607,0,,,0,0,0,ninguna,ninguna,24.6,35.9,13.3,0.0,0,0,0,0,3,68,personal ocupado
+2026-05-28,2026,5,3,Jueves,0,1608,0,,,0,0,0,ninguna,ninguna,25.2,36.7,13.6,0.0,0,0,0,0,6,70,personal sin hacer nada
+2026-05-29,2026,5,4,Viernes,0,1609,0,,,0,0,0,ninguna,ninguna,26.1,37.9,14.3,0.0,0,0,0,0,6,105,personal suficiente
+2026-05-30,2026,5,5,Sábado,1,1610,0,,,0,0,0,ninguna,ninguna,25.4,36.8,14.0,0.0,0,0,0,0,8,172,personal ocupado
+2026-05-31,2026,5,6,Domingo,1,1611,0,,,0,0,0,ninguna,ninguna,26.0,35.6,16.5,0.0,0,0,0,0,8,146,personal ocupado
+2026-06-03,2026,6,2,Miércoles,0,1614,0,,,0,0,0,ninguna,ninguna,23.2,33.1,13.2,0.0,0,0,0,0,6,72,personal sin hacer nada
+2026-06-04,2026,6,3,Jueves,0,1615,0,,,0,0,0,ninguna,ninguna,23.4,30.8,16.0,0.0,0,0,0,0,4,83,personal ocupado
+2026-06-05,2026,6,4,Viernes,0,1616,0,,,0,0,0,ninguna,ninguna,22.5,30.8,14.2,0.0,0,0,0,0,3,137,personal ocupado
+2026-06-06,2026,6,5,Sábado,1,1617,0,,,0,0,0,ninguna,ninguna,23.4,33.1,13.8,0.0,0,0,0,0,7,174,falta de personal
+2026-06-07,2026,6,6,Domingo,1,1618,0,,,0,0,0,ninguna,ninguna,25.2,34.9,15.5,0.0,0,0,0,0,7,131,personal suficiente
+2026-06-10,2026,6,2,Miércoles,0,1621,0,,,0,0,0,ninguna,ninguna,25.0,33.7,16.4,0.0,0,0,0,0,5,66,personal suficiente
+2026-06-11,2026,6,3,Jueves,0,1622,0,,,0,0,0,ninguna,ninguna,26.0,36.2,15.7,0.0,0,0,0,0,5,85,personal ocupado
+2026-06-12,2026,6,4,Viernes,0,1623,0,,,0,0,0,ninguna,ninguna,26.8,35.9,17.7,0.0,0,0,0,0,3,139,falta de personal
+2026-06-13,2026,6,5,Sábado,1,1624,0,,,0,0,0,ninguna,ninguna,26.0,35.4,16.5,0.0,0,0,0,0,6,190,falta de personal
+2026-06-14,2026,6,6,Domingo,1,1625,0,,,0,0,0,ninguna,ninguna,27.5,36.5,18.5,6.6,0,0,0,0,8,105,personal sin hacer nada
+2026-06-17,2026,6,2,Miércoles,0,1628,0,,,0,0,0,ninguna,ninguna,28.8,37.3,20.3,0.0,0,0,0,0,4,57,personal sin hacer nada
+2026-06-18,2026,6,3,Jueves,0,1629,0,,,0,0,0,ninguna,ninguna,28.8,36.6,21.0,0.0,0,0,0,0,4,71,personal suficiente
+2026-06-19,2026,6,4,Viernes,0,1630,0,,,0,0,0,ninguna,ninguna,29.6,38.5,20.8,0.0,0,0,0,0,6,141,personal suficiente
+2026-06-20,2026,6,5,Sábado,1,1631,0,,,0,0,0,ninguna,ninguna,30.8,38.4,23.2,0.0,0,0,0,0,6,154,falta de personal
+2026-06-21,2026,6,6,Domingo,1,1632,0,,,0,0,0,ninguna,ninguna,31.8,40.2,23.3,0.0,0,0,0,0,7,119,personal ocupado
+2026-06-24,2026,6,2,Miércoles,0,1635,0,,,0,0,0,ninguna,ninguna,31.2,40.2,22.3,0.0,0,0,0,0,3,40,personal suficiente
+2026-06-25,2026,6,3,Jueves,0,1636,0,,,0,0,0,ninguna,ninguna,27.2,33.5,20.9,0.0,0,0,0,0,4,91,personal ocupado
+2026-06-26,2026,6,4,Viernes,0,1637,0,,,0,0,0,ninguna,ninguna,25.8,35.0,16.5,0.0,0,0,0,0,4,144,personal ocupado
+2026-06-27,2026,6,5,Sábado,1,1638,0,,,0,0,0,ninguna,ninguna,27.6,37.6,17.7,5.6,0,0,0,0,8,155,personal ocupado
+2026-06-28,2026,6,6,Domingo,1,1639,0,,,0,0,0,ninguna,ninguna,27.5,35.8,19.2,0.0,0,0,0,0,7,135,personal ocupado
+2026-07-01,2026,7,2,Miércoles,0,1642,0,,,0,0,0,ninguna,ninguna,31.0,39.4,22.7,0.0,0,0,0,0,4,53,personal sin hacer nada
+2026-07-02,2026,7,3,Jueves,0,1643,0,,,0,0,0,ninguna,ninguna,26.9,35.9,17.9,0.0,0,0,0,0,5,87,personal ocupado
+2026-07-03,2026,7,4,Viernes,0,1644,0,,,0,0,0,ninguna,ninguna,30.0,40.0,20.0,0.0,0,0,0,0,5,150,personal ocupado
+2026-07-04,2026,7,5,Sábado,1,1645,0,,,0,0,0,ninguna,ninguna,30.7,41.0,20.4,0.0,0,0,0,0,8,169,personal ocupado
+2026-07-05,2026,7,6,Domingo,1,1646,0,,,0,0,0,ninguna,ninguna,30.2,40.2,20.3,0.0,0,0,0,0,6,162,falta de personal
+2026-07-08,2026,7,2,Miércoles,0,1649,0,,,0,0,0,ninguna,ninguna,28.6,39.8,17.5,0.0,0,0,0,0,5,71,personal sin hacer nada
+2026-07-09,2026,7,3,Jueves,0,1650,0,,,0,0,0,ninguna,ninguna,28.4,39.3,17.5,0.0,0,0,0,0,5,97,personal ocupado
+2026-07-10,2026,7,4,Viernes,0,1651,0,,,0,0,0,ninguna,ninguna,29.8,37.4,22.3,0.0,0,0,0,0,6,106,personal ocupado
+2026-07-11,2026,7,5,Sábado,1,1652,0,,,0,0,0,ninguna,ninguna,28.4,39.0,17.7,0.0,0,0,0,0,8,160,personal ocupado
+2026-07-12,2026,7,6,Domingo,1,1653,0,,,0,0,0,ninguna,ninguna,28.8,34.8,22.7,0.0,0,0,0,0,7,148,personal suficiente
+2026-07-15,2026,7,2,Miércoles,0,1656,0,,,0,0,0,ninguna,ninguna,28.0,38.1,17.9,0.0,0,0,0,0,6,62,personal sin hacer nada
+2026-07-16,2026,7,3,Jueves,0,1657,0,,,0,0,0,ninguna,ninguna,28.4,36.4,20.4,0.0,0,0,0,0,5,100,personal ocupado
+2026-07-17,2026,7,4,Viernes,0,1658,0,,,0,0,0,ninguna,ninguna,25.8,36.4,15.2,0.0,0,0,0,0,4,140,falta de personal
+2026-07-18,2026,7,5,Sábado,1,1659,0,,,0,0,0,ninguna,ninguna,26.0,36.8,15.3,0.0,0,0,0,0,7,153,personal ocupado
+2026-07-19,2026,7,6,Domingo,1,1660,0,,,0,0,0,ninguna,ninguna,26.0,37.6,14.4,0.0,0,0,0,0,6,177,falta de personal
+2026-07-22,2026,7,2,Miércoles,0,1663,0,,,0,0,0,ninguna,ninguna,29.5,39.6,19.4,0.0,0,0,0,0,5,70,personal sin hacer nada
+2026-07-23,2026,7,3,Jueves,0,1664,0,,,0,0,0,ninguna,ninguna,28.7,38.8,18.6,0.0,0,0,0,0,5,79,personal ocupado
+2026-07-24,2026,7,4,Viernes,0,1665,0,,,0,0,0,ninguna,ninguna,26.1,33.9,18.3,0.0,0,0,0,0,3,124,falta de personal
+2026-07-25,2026,7,5,Sábado,1,1666,0,,,0,0,0,ninguna,ninguna,23.6,30.4,16.7,0.0,0,0,0,0,6,253,personal ocupado
+2026-07-26,2026,7,6,Domingo,1,1667,0,,,0,0,0,ninguna,ninguna,23.9,33.2,14.6,0.0,0,0,0,0,6,178,personal ocupado
+2026-07-29,2026,7,2,Miércoles,0,1670,0,,,0,0,0,ninguna,ninguna,30.6,39.7,21.4,0.0,0,0,0,0,6,53,personal suficiente
+2026-07-30,2026,7,3,Jueves,0,1671,0,,,0,0,0,ninguna,ninguna,30.5,40.6,20.4,0.0,0,0,0,0,3,78,falta de personal
+2026-07-31,2026,7,4,Viernes,0,1672,0,,,0,0,0,ninguna,ninguna,30.0,38.2,21.9,0.0,0,0,0,0,5,118,personal ocupado
+2026-09-02,2026,9,2,Miércoles,0,1705,0,,,0,0,0,ninguna,ninguna,26.0,37.2,14.8,0.0,0,0,0,0,6,65,personal sin hacer nada
+2026-09-03,2026,9,3,Jueves,0,1706,0,,,0,0,0,ninguna,ninguna,27.2,39.0,15.5,0.0,0,0,0,0,6,61,personal suficiente
+2026-09-04,2026,9,4,Viernes,0,1707,0,,,0,0,0,ninguna,ninguna,27.0,39.6,14.5,0.0,0,0,0,0,6,91,personal ocupado
+2026-09-05,2026,9,5,Sábado,1,1708,0,,,0,0,0,ninguna,ninguna,28.9,38.2,19.6,0.0,0,0,0,0,6,146,personal ocupado
+2026-09-06,2026,9,6,Domingo,1,1709,0,,,0,0,0,ninguna,ninguna,29.5,38.4,20.6,0.0,0,0,0,0,6,117,personal ocupado
+2026-09-08,2026,9,1,Martes,0,1711,1,Virgen de la Soledad (fiesta local),local,1,0,0,ninguna,ninguna,27.0,36.4,17.7,0.2,0,0,0,0,6,58,personal sin hacer nada
+2026-09-09,2026,9,2,Miércoles,0,1712,1,Fiesta local de Arganda del Rey,local,0,0,0,ninguna,ninguna,22.0,28.9,15.2,0.0,0,0,0,0,7,69,personal sin hacer nada
+2026-09-10,2026,9,3,Jueves,0,1713,0,,,0,0,0,ninguna,ninguna,19.9,29.7,10.1,0.0,0,0,0,0,4,73,personal suficiente
+2026-09-11,2026,9,4,Viernes,0,1714,0,,,0,0,0,ninguna,ninguna,21.0,33.2,8.9,0.0,0,0,0,0,3,99,falta de personal
+2026-09-12,2026,9,5,Sábado,1,1715,0,,,0,0,0,ninguna,ninguna,24.4,34.6,14.2,0.0,0,0,0,0,8,152,personal suficiente
+2026-09-13,2026,9,6,Domingo,1,1716,0,,,0,0,0,ninguna,ninguna,25.8,35.2,16.3,0.0,0,0,0,0,7,135,personal ocupado
+2026-09-16,2026,9,2,Miércoles,0,1719,0,,,0,0,0,ninguna,ninguna,25.8,36.6,15.0,0.0,0,1,0,1,4,59,personal sin hacer nada
+2026-09-17,2026,9,3,Jueves,0,1720,0,,,0,0,0,ninguna,ninguna,25.8,36.6,15.0,0.0,0,1,0,1,3,81,falta de personal
+2026-09-18,2026,9,4,Viernes,0,1721,0,,,0,0,0,ninguna,ninguna,25.8,36.6,15.0,0.0,0,1,0,1,3,125,falta de personal
+2026-09-19,2026,9,5,Sábado,1,1722,0,,,0,0,0,ninguna,ninguna,25.8,36.6,15.0,0.0,0,1,0,1,8,142,personal ocupado
+2026-09-20,2026,9,6,Domingo,1,1723,0,,,0,0,0,ninguna,ninguna,25.8,36.6,15.0,0.0,0,1,0,1,6,127,personal ocupado

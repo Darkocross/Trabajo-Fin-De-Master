@@ -1,0 +1,24 @@
+variable,coeficiente,importancia,variable_legible
+categoricas__dia_semana_5,107.94316465123718,107.94316465123718,día de la semana: sábado
+categoricas__dia_semana_6,79.70847642699968,79.70847642699968,día de la semana: domingo
+categoricas__dia_semana_4,59.409775904321535,59.409775904321535,día de la semana: viernes
+categoricas__mes_5,32.21003939055818,32.21003939055818,mes: mayo
+categoricas__mes_6,31.70862139996791,31.70862139996791,mes: junio
+categoricas__mes_12,29.303147945824925,29.303147945824925,mes: diciembre
+categoricas__dia_semana_3,29.260411556875365,29.260411556875365,día de la semana: jueves
+categoricas__mes_10,23.377794959577496,23.377794959577496,mes: octubre
+categoricas__mes_7,20.327982763470402,20.327982763470402,mes: julio
+categoricas__tipo_vacaciones_semana_santa,20.141975265671846,20.141975265671846,tipo de vacaciones: semana_santa
+categoricas__mes_4,18.052581038227878,18.052581038227878,mes: abril
+categoricas__mes_11,17.64584825230509,17.64584825230509,mes: noviembre
+categoricas__mes_9,15.92318521543401,15.92318521543401,mes: septiembre
+categoricas__dia_semana_1,13.065277477882926,13.065277477882926,día de la semana: martes
+categoricas__mes_3,12.216926718299815,12.216926718299815,mes: marzo
+categoricas__dia_semana_2,8.161273970838494,8.161273970838494,día de la semana: miércoles
+categoricas__tipo_vacaciones_ninguna,-6.771570307986633,6.771570307986633,tipo de vacaciones: ninguna
+numericas__tmed,5.686475865122672,5.686475865122672,temperatura media
+categoricas__mes_2,5.640078212749833,5.640078212749833,mes: febrero
+numericas__prec_log,-5.547029624728852,5.547029624728852,precipitación (log)
+numericas__lluvia_fin_semana,-3.781766536940192,3.781766536940192,lluvia en fin de semana
+numericas__amplitud_termica,-3.392989048629456,3.392989048629456,amplitud térmica
+numericas__es_festivo,1.495020135648092,1.495020135648092,es festivo

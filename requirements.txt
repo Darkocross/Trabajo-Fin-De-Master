@@ -1,0 +1,32 @@
+# ============================================================
+# Dependencias del proyecto
+# ============================================================
+# Instalación:
+#     python -m venv venv
+#     venv\Scripts\activate        (Windows)
+#     source venv/bin/activate     (Linux / macOS)
+#     pip install -r requirements.txt
+# ============================================================
+
+# --- Datos y cálculo ---
+numpy==2.5.3
+pandas==3.0.5
+
+# --- Modelado ---
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# --- Visualización ---2
+
+# --- Extracción de datos (AEMET OpenData) ---
+requests==2.34.2
+python-dotenv==1.2.3
+
+# --- Aplicación web (MVP) ---
+streamlit==1.63.0
+
+# --- Notebooks ---
+jupyter==1.1.1
+
+# --- Tests ---
+pytest==9.1.1

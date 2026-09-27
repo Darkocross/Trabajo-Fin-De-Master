@@ -1,0 +1,206 @@
+{
+    "baseline": {
+        "nombre": "Baseline (media por día de la semana)",
+        "variables": [
+            "dia_semana",
+            "mes",
+            "tipo_vacaciones",
+            "es_festivo",
+            "tmed",
+            "amplitud_termica",
+            "prec_log",
+            "lluvia_fin_semana"
+        ],
+        "variable_objetivo": "n_clientes",
+        "registros_entrenamiento": 725,
+        "periodo_entrenamiento": [
+            "2022-01-01",
+            "2024-12-29"
+        ],
+        "metricas_validacion": {
+            "mae": 20.57678934278638,
+            "rmse": 27.713019084139525,
+            "mape": 19.54401223905809,
+            "r2": 0.6386054865174604
+        },
+        "metricas_test": {
+            "mae": 20.21182916676719,
+            "rmse": 28.41598509914278,
+            "mape": 18.815147922321493,
+            "r2": 0.6170407456063678
+        },
+        "intervalo_80": {
+            "inferior": -24.36628371628372,
+            "superior": 42.82446075051709
+        },
+        "intervalo_80_escalado": {
+            "inferior": [
+                0.5880164345795118,
+                -0.28171283219942744
+            ],
+            "superior": [
+                -4.74746357164662,
+                0.46980822708262765
+            ]
+        },
+        "entrenado": "2026-09-25 18:03"
+    },
+    "regresion_lineal": {
+        "nombre": "Regresión lineal",
+        "variables": [
+            "dia_semana",
+            "mes",
+            "tipo_vacaciones",
+            "es_festivo",
+            "tmed",
+            "amplitud_termica",
+            "prec_log",
+            "lluvia_fin_semana"
+        ],
+        "variable_objetivo": "n_clientes",
+        "registros_entrenamiento": 725,
+        "periodo_entrenamiento": [
+            "2022-01-01",
+            "2024-12-29"
+        ],
+        "metricas_validacion": {
+            "mae": 16.189281164619004,
+            "rmse": 22.194059400362416,
+            "mape": 15.866075142569292,
+            "r2": 0.7682139142578328
+        },
+        "metricas_test": {
+            "mae": 16.710556759157058,
+            "rmse": 23.441970102562287,
+            "mape": 16.819137890093085,
+            "r2": 0.7393754324908892
+        },
+        "intervalo_80": {
+            "inferior": -14.80161914714428,
+            "superior": 35.638775497079585
+        },
+        "intervalo_80_escalado": {
+            "inferior": [
+                -3.328443117082164,
+                -0.11584322804482201
+            ],
+            "superior": [
+                12.660185120211436,
+                0.2444845840198778
+            ]
+        },
+        "entrenado": "2026-09-25 18:03"
+    },
+    "random_forest": {
+        "nombre": "Random Forest",
+        "variables": [
+            "dia_semana",
+            "mes",
+            "tipo_vacaciones",
+            "es_festivo",
+            "tmed",
+            "amplitud_termica",
+            "prec_log",
+            "lluvia_fin_semana"
+        ],
+        "variable_objetivo": "n_clientes",
+        "registros_entrenamiento": 725,
+        "periodo_entrenamiento": [
+            "2022-01-01",
+            "2024-12-29"
+        ],
+        "metricas_validacion": {
+            "mae": 16.731138272750773,
+            "rmse": 24.051789804495815,
+            "mape": 15.530168878184835,
+            "r2": 0.7277871184383616
+        },
+        "metricas_test": {
+            "mae": 16.890622187017772,
+            "rmse": 25.259793143103586,
+            "mape": 15.693847965618962,
+            "r2": 0.6973876029874408
+        },
+        "intervalo_80": {
+            "inferior": -15.71786952438853,
+            "superior": 38.08199153775507
+        },
+        "intervalo_80_escalado": {
+            "inferior": [
+                -13.566354013235397,
+                -0.02622285368475437
+            ],
+            "superior": [
+                -21.21187275335317,
+                0.5889896965815695
+            ]
+        },
+        "entrenado": "2026-09-25 18:03"
+    },
+    "hist_gradient_boosting": {
+        "nombre": "Hist Gradient Boosting",
+        "variables": [
+            "dia_semana",
+            "mes",
+            "tipo_vacaciones",
+            "es_festivo",
+            "tmed",
+            "amplitud_termica",
+            "prec_log",
+            "lluvia_fin_semana"
+        ],
+        "variable_objetivo": "n_clientes",
+        "registros_entrenamiento": 725,
+        "periodo_entrenamiento": [
+            "2022-01-01",
+            "2024-12-29"
+        ],
+        "metricas_validacion": {
+            "mae": 16.09711707969897,
+            "rmse": 22.64923972949764,
+            "mape": 14.839555611646302,
+            "r2": 0.7586089685333799
+        },
+        "metricas_test": {
+            "mae": 17.388848751267663,
+            "rmse": 24.029832712412773,
+            "mape": 15.9812481325321,
+            "r2": 0.726139982859618
+        },
+        "intervalo_80": {
+            "inferior": -14.800690370222977,
+            "superior": 33.64393624066352
+        },
+        "intervalo_80_escalado": {
+            "inferior": [
+                1.500637431014094,
+                -0.18316318555316136
+            ],
+            "superior": [
+                7.751018552258239,
+                0.24025002123052755
+            ]
+        },
+        "entrenado": "2026-09-25 18:03"
+    },
+    "produccion": {
+        "nombre": "Modelo de producción",
+        "algoritmo": "regresion_lineal",
+        "registros_entrenamiento": 971,
+        "periodo_entrenamiento": [
+            "2022-01-01",
+            "2025-12-31"
+        ],
+        "metricas_test": {
+            "mae": 15.802393445505881,
+            "rmse": 22.174317988582327,
+            "mape": 16.00654522290035,
+            "r2": 0.7668004658162748
+        },
+        "sesgo_test": 8.742921931989661,
+        "intervalo_80": {
+            "inferior": -15.894946500660751,
+            "superior": 31.77803541869011
+        }
+    }
+}

@@ -202,3 +202,12 @@ De verdad quiero agradecer lo útil que me está resultando este curso de máste
 Además, me motiva muchísimo poder ir probando distintas ideas y recibir comentarios que me permitan mejorar y enfocar mejor mi trabajo.
 
 Valoro sinceramente cualquier sugerencia o recomendación que puedan darme, porque siento que cada feedback me ayuda a avanzar y aprender de una forma mucho más efectiva.
+---
+
+## Nota posterior
+
+La primera idea fue la elegida y es la que se ha desarrollado durante el resto del curso.
+
+En esta entrega planteaba situar el caso de estudio en la Región de Murcia. Finalmente se ubicó en **Arganda del Rey (Comunidad de Madrid)**, porque es la localidad de la estación meteorológica de AEMET con la que se ha trabajado (3182Y) y del municipio de predicción (código INE 28014). El resto del planteamiento se mantiene.
+
+El desarrollo continúa en la [Entrega 2](02_datos_necesarios.md).

@@ -1,0 +1,5 @@
+clave,variante,columnas,mae_validacion,mae_test,r2_test,mae_cruzada,desviacion_cruzada,descripcion
+A,Solo efectos principales,23,16.189,16.711,0.739,16.484,1.774,"El conjunto desplegado. Día de la semana, mes, vacaciones, festivo y meteorología."
+B,+ interacción mes x fin de semana,44,15.364,16.315,0.748,16.043,1.638,"Añade `mes_finde`: la interacción para los doce meses, no para tres elegidos a dedo."
+C,+ vísperas y puentes,25,16.179,16.719,0.739,16.512,1.761,"Añade `es_vispera_festivo` y `es_puente`, dos hechos del almanaque que el calendario publica."
+D,Todo encendido,46,15.364,16.319,0.748,16.081,1.652,Interacción y calendario opcional a la vez.
