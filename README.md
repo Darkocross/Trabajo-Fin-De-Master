@@ -152,7 +152,7 @@ python pipeline.py --solo importancia  # una etapa suelta
   (real)         │                │                      │
                  ├──────────► unión por fecha ──► demanda_restaurante.csv
   actividad    ──┘           filtrado de cierres         │
-  (sintética)                                     1.129 días de actividad
+  (real)                                     1.129 días de actividad
                                                         │
                                               train / validation / test
                                               2022-24 / 2025 / 2026
